@@ -3,8 +3,6 @@ WeatherApp stack: No Storyboards(code only), MVVM, RxSwift, UserDefaults.
 
 Note: before you first run the App, please install the following pods: pod 'RxSwift', '6.2.0' , pod 'RxCocoa', '6.2.0'.
 
-<img width="387" alt="Launchscreen" src="https://user-images.githubusercontent.com/72150642/122545649-bd705880-d036-11eb-94d9-1f045d0358ab.png">
-
 <img width="390" alt="MainVC" src="https://user-images.githubusercontent.com/72150642/122545670-c52ffd00-d036-11eb-8b8c-99edb6a3a745.png">
 
 <img width="390" alt="LoactionTapped" src="https://user-images.githubusercontent.com/72150642/122545690-ca8d4780-d036-11eb-861d-275a83c41215.png">
